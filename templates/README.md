@@ -29,3 +29,16 @@ The following templates extend the core toolkit while keeping it focused on reus
 - [Development Action & Follow-up Tracker](action-follow-up-tracker.md)
 
 Templates should remain lightweight, adaptable and anonymized. Add new tools only when they solve a distinct need and improve traceability, development quality or management effectiveness.
+
+## Demonstration Examples
+
+To make the templates immediately understandable to recruiters, selected tools include fully populated examples using fictional data:
+
+- [Demonstration index](examples/README.md)
+- Competency Matrix
+- Learning Path
+- Coaching Plan
+- Performance & Development Review
+- Development Action & Follow-up Tracker
+
+> **All examples are explicitly marked “Demonstration / Fictional Data”. They are not representations of real employees, clients, employers, confidential KPIs or real project results.**
