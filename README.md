@@ -89,11 +89,11 @@ Document effective practices, reinforce autonomy and transfer knowledge into the
 
 The practices represented here connect directly with the portfolio's operational, quality and transformation cases:
 
-- [Operational Structuring & Performance Transformation](../06-operational-structuring-case-study)
-- [EMEA Quality Governance & Multi-Provider Transformation](../07-emea-quality-governance-transformation)
-- [Recruitment Process Improvement](../05-recruitment-process-improvement)
-- [Lean Six Sigma Transformation](../04-lean-six-sigma-transformation)
-- [Quality & Governance Framework](../02-quality-governance-framework)
+- [Operational Structuring & Performance Transformation](https://github.com/ghazouanisamira-gif/06-operational-structuring-case-study)
+- [EMEA Quality Governance & Multi-Provider Transformation](https://github.com/ghazouanisamira-gif/07-emea-quality-governance-transformation)
+- [Recruitment Process Improvement](https://github.com/ghazouanisamira-gif/05-recruitment-process-improvement)
+- [Lean Six Sigma Transformation](https://github.com/ghazouanisamira-gif/04-lean-six-sigma-transformation)
+- [Quality & Governance Framework](https://github.com/ghazouanisamira-gif/02-quality-governance-framework)
 
 These links are intentionally used to show where the capability-development approach supports broader project and operational outcomes without duplicating the same evidence.
 
